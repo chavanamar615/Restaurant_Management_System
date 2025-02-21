@@ -1,0 +1,10 @@
+rice,200
+french fries,100
+Burger,100
+Pizza,150
+
+
+
+Sprite,20
+Maza,30
+Cock,25
